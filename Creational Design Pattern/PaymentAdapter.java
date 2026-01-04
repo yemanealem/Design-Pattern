@@ -1,4 +1,3 @@
-// Adapter
 class PaymentAdapter implements PaymentGateway {
     private LegacyPaymentProcessor legacyProcessor;
 
