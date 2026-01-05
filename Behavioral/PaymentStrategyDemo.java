@@ -1,4 +1,4 @@
-public class Main {
+public class PaymentStrategyDemo {
     public static void main(String[] args) {
         PaymentContext context = new PaymentContext();
 
