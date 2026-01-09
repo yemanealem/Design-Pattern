@@ -17,3 +17,13 @@ motivation for solving the the problem using the method suggested by the pattern
 structures of classes comprising the solution;
 an example in one of the programming languages;
 a description of the nuances of pattern implementation in various contexts; relations with other patterns.
+
+3. What is Singleton pattern?
+   Singleton pattern comes under creational patterns category and introduces a single class which is responsible to create an object while making sure that only single object gets created. This class provides a way to access its only object which can be accessed directly without need to instantiate the object of the class.
+
+4. What is Dependency Injection?
+   Answer:
+
+Dependency injection makes it easy to create loosely coupled components, which typically means that components consume functionality defined by interfaces without having any first-hand knowledge of which implementation classes are being used.
+
+Dependency injection makes it easier to change the behavior of an application by changing the components that implement the interfaces that define application features. It also results in components that are easier to isolate for unit testing.
